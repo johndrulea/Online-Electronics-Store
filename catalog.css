@@ -1,0 +1,30 @@
+.item{
+    border: 1px solid rgb(186, 182, 182);
+    display: inline-block;
+    width: 250px;
+    height: 400px;
+    border-radius: 5px;
+    padding: 10px;
+    vertical-align: top;
+}
+
+.item img{
+    width: 190px;
+    height: 120px;
+    margin: 5px;
+}
+
+.button-div button{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.button{
+    text-align: center;
+}
+
+.item-price{
+    font-size: large;
+    color: aquamarine;
+    font-weight: bold;
+}
